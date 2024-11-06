@@ -5,4 +5,39 @@
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-  }  
+  }
+
+  /* shared style */
+    .display-flex{
+        display: flex;
+    }
+    /* Dark 01 */
+    .text-black{
+        color:#131313;
+    }
+
+    /* Dark 02 */
+    .text-gray{
+        color: #424242;
+    }
+
+    /* Dark 03 */
+    .text-light-gray{
+        color: #727272;
+    }
+
+    /* Dark 04 */
+    .text-soft-gray{
+        color: #A1A1A1;
+    }
+
+    /* Background-color */
+    .bg-light{
+        color: rgba(255, 143, 14, 0.272);
+    }
+
+    /* Header styles */
+
+
+    /* Nav Styles */
+ 
